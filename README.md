@@ -1,2 +1,10 @@
-# my-blogs
-This repository contains blogs which I follow to stay up-to-date with the industry.
+# Blogs
+
+- [CosmasTech](https://cosmastech.com/)
+- [Freek](https://freek.dev/)
+- [Laravel News](https://laravel-news.com/)
+- [Stitcher](https://stitcher.io/)
+- [Benjamin Crozat](https://benjamincrozat.com/)
+- [Matt Stauffer](https://mattstauffer.com/)
+- [Nuno Maduro](https://nunomaduro.com/)
+- [Hafiz](https://hafiz.dev/)
