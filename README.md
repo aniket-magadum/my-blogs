@@ -11,3 +11,4 @@
 
 # Business Blogs
 - [Instagram](https://instagram-engineering.com/)
+- [Flare App](https://flareapp.io/blog/)
