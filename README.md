@@ -8,6 +8,7 @@
 - [Matt Stauffer](https://mattstauffer.com/)
 - [Nuno Maduro](https://nunomaduro.com/)
 - [Hafiz](https://hafiz.dev/)
+- [Jack Bayliss](https://jackbayliss.com/blog/)
 
 # Business Blogs
 - [Instagram](https://instagram-engineering.com/)
