@@ -9,6 +9,7 @@
 - [Nuno Maduro](https://nunomaduro.com/)
 - [Hafiz](https://hafiz.dev/)
 - [Jack Bayliss](https://jackbayliss.com/blog/)
+- [DumbellCode](https://blog.dumbbellcode.in/)
 
 # Business Blogs
 - [Instagram](https://instagram-engineering.com/)
