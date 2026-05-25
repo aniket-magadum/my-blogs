@@ -10,6 +10,7 @@
 - [Hafiz](https://hafiz.dev/)
 - [Jack Bayliss](https://jackbayliss.com/blog/)
 - [DumbellCode](https://blog.dumbbellcode.in/)
+- [Thakur Coder](https://www.thakurcoder.com/)
 
 # Business Blogs
 - [Instagram](https://instagram-engineering.com/)
